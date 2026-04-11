@@ -13,6 +13,8 @@
   },
   "dependencies": {
     "astro": "^6.1.5",
+    "events": "^3.3.0",
+    "gsap": "^3.14.2",
     "three": "^0.183.2",
     "vite-plugin-glsl": "^1.6.0"
   },

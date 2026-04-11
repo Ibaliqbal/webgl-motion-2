@@ -19,8 +19,8 @@ body {
 }
 
 .item__placeholder {
-  width: 10.5rem;
-  height: 10.5rem;
+  width: 4.5rem;
+  aspect-ratio: 4 / 5;
   pointer-events: none;
   position: fixed;
   top: 50%;
